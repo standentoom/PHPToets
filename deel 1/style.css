@@ -1,0 +1,16 @@
+* {
+	padding: 0px;
+	margin: 0px
+}
+
+body{	
+	font-family: arial black;
+}
+
+div{
+	border-style: double;
+    border-width: medium;
+    text-align: center;
+    border-width: 8px;
+    width: 400px;
+}
